@@ -1,0 +1,10 @@
+node_modules/
+dist/
+Pradaj-Preview.html
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+Thumbs.db
+.vscode/
